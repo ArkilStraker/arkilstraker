@@ -16,6 +16,6 @@
 [<img align="left" alt="Arkil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Arkil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+[twitter]: https://twitter.com/Arkil
+[instagram]: https://www.instagram.com/Arkil
 [linkedin]: https://linkedin.com/in/arkil-straker-cozier-74513930
