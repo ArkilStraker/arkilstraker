@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/arkilstraker/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/arkilstraker/configure-ad)
-  - [Group Policy and Managing Accounts](https://github.com/arkilstraker/configure-group-policy)
+  - [Configuring Active Directory Group Policy and Managing Accounts](https://github.com/arkilstraker/configure-group-policy)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/arkilstraker/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
 
