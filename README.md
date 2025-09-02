@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arkil, an <a href="https://linkedin.com/in/arkil-straker-cozier-74513930">IT Professional</a>☺</h1>
+<h1>Hey, I'm Arkil, an <a href="https://linkedin.com/in/arkil-straker-cozier-74513930">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/arkilstraker/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/arkilstraker/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/arkilstraker/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
